@@ -5,8 +5,8 @@ export const MercerLogo = ({
 	<img
 		src="/landg_logo.svg"
 		alt="User logo"
-		width="20"
-		height="14"
+		width="40"
+		height="28"
 		className={className}
 		style={style}
 	/>
